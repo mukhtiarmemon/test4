@@ -1,3 +1,5 @@
+//testing github connection with bluej
+
 public class ExceptionScenarios{  
     
       
